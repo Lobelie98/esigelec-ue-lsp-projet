@@ -1,0 +1,79 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-poi-nar
+
+
+From: 'an unknown organization'
+  - curvesapi (https://github.com/virtuald/curvesapi) com.github.virtuald:curvesapi:jar:1.05
+    License: BSD License  (http://opensource.org/licenses/BSD-3-Clause)
+  - jBCrypt (http://www.mindrot.org/projects/jBCrypt) de.svenkubiak:jBCrypt:bundle:0.4.1
+    License: ISC/BSD licence  (http://www.mindrot.org/files/jBCrypt/LICENSE)
+  - Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs (http://www.bouncycastle.org/java.html) org.bouncycastle:bcpkix-jdk15on:jar:1.61
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle Provider (http://www.bouncycastle.org/java.html) org.bouncycastle:bcprov-jdk15on:jar:1.61
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - xercesImpl  xerces:xercesImpl:jar:2.4.0
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-poi-processors (https://nifi.apache.org/nifi-nar-bundles/nifi-poi-bundle/nifi-poi-processors) org.apache.nifi:nifi-poi-processors:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-processor-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-processor-utils) org.apache.nifi:nifi-processor-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (https://nifi.apache.org/nifi-commons/nifi-security-utils) org.apache.nifi:nifi-security-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-standard-record-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-record-utils/nifi-standard-record-utils) org.apache.nifi:nifi-standard-record-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Apache Software Foundation' (http://www.apache.org/)
+  - Apache POI (http://poi.apache.org/) org.apache.poi:poi:jar:4.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache POI (http://poi.apache.org/) org.apache.poi:poi-ooxml:jar:4.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache POI (http://poi.apache.org/) org.apache.poi:poi-ooxml-schemas:jar:4.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Math (http://commons.apache.org/proper/commons-math/) org.apache.commons:commons-math3:jar:3.6.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (http://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.11
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Collections (http://commons.apache.org/proper/commons-collections/) org.apache.commons:commons-collections4:jar:4.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (https://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.18
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Configuration (http://commons.apache.org/proper/commons-configuration/) org.apache.commons:commons-configuration2:jar:2.4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons CSV (http://commons.apache.org/proper/commons-csv/) org.apache.commons:commons-csv:jar:1.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.8.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Text (http://commons.apache.org/proper/commons-text) org.apache.commons:commons-text:jar:1.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'XmlBeans' (https://xmlbeans.apache.org/)
+  - XmlBeans (https://xmlbeans.apache.org/) org.apache.xmlbeans:xmlbeans:jar:3.0.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

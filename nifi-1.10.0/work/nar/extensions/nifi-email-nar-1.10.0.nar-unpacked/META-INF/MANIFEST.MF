@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2019-10-29T09:49:34Z
+Archiver-Version: Plexus Archiver
+Nar-Dependency-Group: org.apache.nifi
+Built-By: jwitt
+Nar-Id: nifi-email-nar
+Clone-During-Instance-Class-Loading: false
+Nar-Dependency-Version: 1.10.0
+Nar-Version: 1.10.0
+Build-Tag: nifi-1.10.0-RC3
+Nar-Group: org.apache.nifi
+Nar-Dependency-Id: nifi-standard-services-api-nar
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_202
+

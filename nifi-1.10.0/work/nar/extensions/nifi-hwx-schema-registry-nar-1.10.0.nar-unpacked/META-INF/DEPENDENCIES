@@ -1,0 +1,169 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-hwx-schema-registry-nar
+
+
+From: 'an unknown organization'
+  - AOP alliance (http://aopalliance.sourceforge.net) aopalliance:aopalliance:jar:1.0
+    License: Public Domain 
+  - Caffeine cache (https://github.com/ben-manes/caffeine) com.github.ben-manes.caffeine:caffeine:jar:2.6.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JCIP Annotations under Apache License (http://stephenc.github.com/jcip-annotations) com.github.stephenc.jcip:jcip-annotations:jar:1.0-1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - FindBugs-jsr305 (http://findbugs.sourceforge.net/) com.google.code.findbugs:jsr305:jar:1.3.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - error-prone annotations (http://nexus.sonatype.org/oss-repository-hosting.html/error_prone_parent/error_prone_annotations) com.google.errorprone:error_prone_annotations:jar:2.1.3
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava/guava) com.google.guava:guava:bundle:24.1.1-jre
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - J2ObjC Annotations (https://github.com/google/j2objc/) com.google.j2objc:j2objc-annotations:jar:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - common-auth (http://github.com/hortonworks/registry/common-auth) com.hortonworks.registries:common-auth:jar:0.8.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - registry-common-client (http://github.com/hortonworks/registry/registry-common-client) com.hortonworks.registries:registry-common-client:jar:0.8.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - schema-registry-client (http://github.com/hortonworks/registry/schema-registry/schema-registry-client) com.hortonworks.registries:schema-registry-client:jar:0.8.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - schema-registry-common (http://github.com/hortonworks/registry/schema-registry/schema-registry-common) com.hortonworks.registries:schema-registry-common:jar:0.8.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - ParaNamer Core (http://paranamer.codehaus.org/paranamer) com.thoughtworks.paranamer:paranamer:bundle:2.7
+    License: BSD  (LICENSE.txt)
+  - jBCrypt (http://www.mindrot.org/projects/jBCrypt) de.svenkubiak:jBCrypt:bundle:0.4.1
+    License: ISC/BSD licence  (http://www.mindrot.org/files/jBCrypt/LICENSE)
+  - Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs (http://www.bouncycastle.org/java.html) org.bouncycastle:bcpkix-jdk15on:jar:1.61
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle Provider (http://www.bouncycastle.org/java.html) org.bouncycastle:bcprov-jdk15on:jar:1.61
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Checker Qual (http://checkerframework.org) org.checkerframework:checker-compat-qual:jar:2.0.0
+    License: GNU General Public License, version 2 (GPL2), with the classpath exception  (http://www.gnu.org/software/classpath/license.html)    License: The MIT License  (http://opensource.org/licenses/MIT)
+  - XZ for Java (http://tukaani.org/xz/java.html) org.tukaani:xz:jar:1.5
+    License: Public Domain 
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-avro-record-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-record-utils/nifi-avro-record-utils) org.apache.nifi:nifi-avro-record-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-hwx-schema-registry-service (https://nifi.apache.org/nifi-nar-bundles/nifi-standard-services/nifi-hwx-schema-registry-bundle/nifi-hwx-schema-registry-service) org.apache.nifi:nifi-hwx-schema-registry-service:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (https://nifi.apache.org/nifi-commons/nifi-security-utils) org.apache.nifi:nifi-security-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-standard-record-utils (https://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-record-utils/nifi-standard-record-utils) org.apache.nifi:nifi-standard-record-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-standard-services-api-nar (https://nifi.apache.org/nifi-nar-bundles/nifi-standard-services/nifi-standard-services-api-nar) org.apache.nifi:nifi-standard-services-api-nar:nar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Chemouni Uriel' (http://www.minidev.net/)
+  - ASM based accessors helper used by json-smart (http://www.minidev.net/) net.minidev:accessors-smart:bundle:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JSON Small and Fast Parser (http://www.minidev.net/) net.minidev:json-smart:bundle:2.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Codehaus' (http://codehaus.org)
+  - Animal Sniffer Annotations (http://mojo.codehaus.org/animal-sniffer/animal-sniffer-annotations) org.codehaus.mojo:animal-sniffer-annotations:jar:1.14
+    License: MIT license  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Connect2id Ltd.' (http://connect2id.com)
+  - Nimbus JOSE+JWT (https://bitbucket.org/connect2id/nimbus-jose-jwt) com.nimbusds:nimbus-jose-jwt:jar:4.41.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com)
+  - Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-core-asl:jar:1.9.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Data Mapper for Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.9.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'GlassFish Community' (https://glassfish.java.net)
+  - javax.annotation API (http://jcp.org/en/jsr/detail?id=250) javax.annotation:javax.annotation-api:jar:1.2
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html)
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) org.ow2.asm:asm:jar:5.0.4
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'Oracle Corporation' (http://www.oracle.com)
+  - HK2 API module (https://hk2.java.net/hk2-api) org.glassfish.hk2:hk2-api:jar:2.4.0-b31
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.java.net/nonav/public/CDDL+GPL_1_1.html)
+  - ServiceLocator Default Implementation (https://hk2.java.net/hk2-locator) org.glassfish.hk2:hk2-locator:jar:2.4.0-b31
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.java.net/nonav/public/CDDL+GPL_1_1.html)
+  - HK2 Implementation Utilities (https://hk2.java.net/hk2-utils) org.glassfish.hk2:hk2-utils:jar:2.4.0-b31
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.java.net/nonav/public/CDDL+GPL_1_1.html)
+  - javax.inject:1 as OSGi bundle (https://hk2.java.net/external/javax.inject) org.glassfish.hk2.external:javax.inject:jar:2.4.0-b31
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.java.net/nonav/public/CDDL+GPL_1_1.html)
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - javax.ws.rs-api (http://jax-rs-spec.java.net) javax.ws.rs:javax.ws.rs-api:jar:2.0.1
+    License: CDDL 1.1  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jersey-repackaged-guava (https://jersey.java.net/project/project/jersey-guava/) org.glassfish.jersey.bundles.repackaged:jersey-guava:bundle:2.22.1
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jersey-core-client (https://jersey.java.net/jersey-client/) org.glassfish.jersey.core:jersey-client:jar:2.22.1
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jersey-core-common (https://jersey.java.net/jersey-common/) org.glassfish.jersey.core:jersey-common:jar:2.22.1
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - jersey-media-multipart (https://jersey.java.net/project/jersey-media-multipart/) org.glassfish.jersey.media:jersey-media-multipart:jar:2.22.1
+    License: CDDL+GPL License  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - MIME streaming extension (http://mimepull.java.net) org.jvnet.mimepull:mimepull:jar:1.9.6
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+From: 'Spring IO' (http://projects.spring.io/spring-framework)
+  - Spring Core (https://github.com/spring-projects/spring-framework) org.springframework:spring-core:jar:4.1.6.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'spring.io' (http://spring.io/)
+  - spring-security-core (http://spring.io/spring-security) org.springframework.security:spring-security-core:jar:3.2.7.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'SpringSource' (http://projects.spring.io/spring-security-kerberos/)
+  - Spring Security Kerberos Core (http://projects.spring.io/spring-security-kerberos) org.springframework.security.kerberos:spring-security-kerberos-core:jar:1.0.1.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'SpringSource' (http://springsource.org/spring-framework)
+  - Spring AOP (https://github.com/SpringSource/spring-framework) org.springframework:spring-aop:jar:3.2.13.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Beans (https://github.com/SpringSource/spring-framework) org.springframework:spring-beans:jar:3.2.13.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Context (https://github.com/SpringSource/spring-framework) org.springframework:spring-context:jar:3.2.13.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Expression Language (SpEL) (https://github.com/SpringSource/spring-framework) org.springframework:spring-expression:jar:3.2.13.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Avro (http://avro.apache.org) org.apache.avro:avro:bundle:1.8.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (http://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.8.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (http://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.12
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Configuration (http://commons.apache.org/proper/commons-configuration/) org.apache.commons:commons-configuration2:jar:2.4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons CSV (http://commons.apache.org/proper/commons-csv/) org.apache.commons:commons-csv:jar:1.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Text (http://commons.apache.org/proper/commons-text) org.apache.commons:commons-text:jar:1.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'xerial.org'
+  - snappy-java (https://github.comm/xerial/snappy-java) org.xerial.snappy:snappy-java:bundle:1.1.1.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

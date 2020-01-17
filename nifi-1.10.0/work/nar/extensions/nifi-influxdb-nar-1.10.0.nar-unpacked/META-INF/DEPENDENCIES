@@ -1,0 +1,47 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-influxdb-nar
+
+
+From: 'an unknown organization'
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.7
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Moshi (https://github.com/square/moshi/moshi) com.squareup.moshi:moshi:jar:1.5.0
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - OkHttp Logging Interceptor (https://github.com/square/okhttp/logging-interceptor) com.squareup.okhttp3:logging-interceptor:jar:3.13.1
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - OkHttp (https://github.com/square/okhttp/okhttp) com.squareup.okhttp3:okhttp:jar:3.13.1
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Okio (https://github.com/square/okio/okio) com.squareup.okio:okio:jar:1.17.2
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - influxdb java bindings (http://www.influxdb.org) org.influxdb:influxdb-java:jar:2.15
+    License: The MIT License (MIT)  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-influxdb-processors (https://nifi.apache.org/nifi-nar-bundles/nifi-influxdb-bundle/nifi-influxdb-processors) org.apache.nifi:nifi-influxdb-processors:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-standard-services-api-nar (https://nifi.apache.org/nifi-nar-bundles/nifi-standard-services/nifi-standard-services-api-nar) org.apache.nifi:nifi-standard-services-api-nar:nar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'MessagePack' (http://msgpack.org/)
+  - msgpack-core (http://msgpack.org/) org.msgpack:msgpack-core:jar:0.8.16
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Square, Inc.' (https://squareup.com)
+  - Converter: Moshi (https://github.com/square/retrofit/retrofit-converters/converter-moshi/) com.squareup.retrofit2:converter-moshi:jar:2.5.0
+    License: Apache 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Retrofit (https://github.com/square/retrofit/retrofit/) com.squareup.retrofit2:retrofit:jar:2.5.0
+    License: Apache 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.8.1
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

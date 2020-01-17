@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2019-10-29T09:49:16Z
+Clone-During-Instance-Class-Loading: false
+Archiver-Version: Plexus Archiver
+Built-By: jwitt
+Nar-Version: 1.10.0
+Build-Tag: nifi-1.10.0-RC3
+Nar-Id: nifi-ccda-nar
+Nar-Group: org.apache.nifi
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_202
+
