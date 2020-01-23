@@ -18,6 +18,8 @@ Pour  exécuter l'un ou l'autre des programmes, il faut ouvrir deux fenêtres WS
 
 Si nécessaire, il faut spécifier le chemin d'accès de la commande spark-submit dans le dossier Spark installé sur la machine. Egalement, le job peut ne rien retourner lors de sa première voire deuxième exécution. Pour rémédier à cela,il faut changer le numéro de port.
 
+Les fichiers du projet sont contenus dans le dossier <b>fichiers_Projet</b>
+
 **Membres**
 
 * BAH Thierno Mamadou
