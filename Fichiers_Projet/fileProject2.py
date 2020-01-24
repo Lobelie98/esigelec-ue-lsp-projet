@@ -1,6 +1,6 @@
 """
 Dans ce fichier, nous réalisons un programme qui fait le produit du prix unitaire et de la quantité pour chacune
-des lignes d'un fichier csv qui arrivent au port 9990 à une fréquence de 2 secondes. 
+des lignes d'un fichier csv qui arrivent à un port donné à une fréquence de 2 secondes. 
 Les résultats sont stockés dans le fichier random_file.txt
 """
 from pyspark import SparkContext
