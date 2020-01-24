@@ -1,7 +1,7 @@
 """
 Dans ce fichier, nous réalisons un programme qui compte les occurrences de chaque mot parmi l'ensemble
-des mots qui arrivent au port 9992 à une fréquence de 2 secondes. Les résultats sont stockés dans le fichier
-random_file.txt
+des mots qui arrivent à un port donné à une fréquence de 5 secondes. Les résultats sont stockés dans le fichier
+random_file_wordcount.txt
 """
 
 from pyspark import SparkContext
