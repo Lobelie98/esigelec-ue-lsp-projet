@@ -16,11 +16,11 @@ Spark Streaming
 
 Pour  exécuter l'un ou l'autre des programmes, il faut ouvrir deux fenêtres WSL. Dans la première, on exécute le script Shell qu'il faut avec la commande ***bash nom_script.sh numero_port*** et dans l'autre on execute le script python en faisant ***spark-submit nom_fichier.py numero_port***. Le numéro de port est le même dans les deux commandes. 
 
-Si nécessaire, il faut spécifier le chemin d'accès de la commande <b>spark-submit</b> dans le dossier <b>spark<b> installé sur la machine. Egalement, le job peut ne rien retourner lors de la première voire la deuxième exécution. Pour rémédier à cela,il faut changer le numéro de port.
+Si nécessaire, il faut spécifier le chemin d'accès de la commande <b>spark-submit</b> dans le dossier <b>spark</b> installé sur la machine. Egalement, le job peut ne rien retourner lors de la première voire la deuxième exécution. Pour rémédier à cela,il faut changer le numéro de port.
 
 Pour plus de clarté, il faudrait modifier les fichiers txt avant toute exécution en ajoutant plusieurs retour chariot.
 
-Les fichiers du projet sont contenus dans le dossier <b>fichiers_Projet</b>
+Les fichiers du projet sont contenus dans le dossier <b>Fichiers_Projet</b>
 
 **Membres**
 
